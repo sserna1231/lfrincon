@@ -60,14 +60,8 @@ Describir constantes y variables en el entorno donde se encuentran hipo y chimue
 
 ---
 
-## Slides
+## Documentos
 
-### Información general
-* Presentación del curso
-
-### Sistema, observación y estado
-* Sistema, observación y estado
-* Python y el mundo de la tortuga
-
-### Condicionales 
+* Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Clases)
+* Ejercicios (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Ejercicios)
 

@@ -7,17 +7,18 @@ date: "2020-02-03T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Introducción a la programación
-    weight: 2
+    parent: 
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
 
 ## Slides
+* Diapositivas (https://github.com/lufe089/lfrincon/tree/master/material/IntroProg/Clases)
 
 ### Información general
-* Presentación del curso
+* Presentación del curso (material/introProg/Clases)
 
 ### Sistema, observación y estado
 * Sistema, observación y estado
