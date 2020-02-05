@@ -1,12 +1,8 @@
 ---
 # Course title, summary, and position.
-linktitle: Introducción a la programación
-summary: Esta asignatura presenta al estudiante una alternativa para apropiar la disciplina de la programación como herramienta conceptual y tecnológica que permite solucionar problemas reales en ingeniería. Usaremos el lenguaje de programación Python
+linktitle: Introducción a la programación y técnicas de programación
+summary: Contenido cursos
 weight: 1
-
-# linktitle: Técnicas y prácticas de programación
-# summary: Curso práctico en el que se aprenderá sobre las principales estructuras de datos lineales, así como herramientas # importantes para implementar dichas estructuras de datos. Usaremos los lenguajes de programación C y C++
-# weight: 1
 
 
 # Page metadata.
@@ -26,7 +22,14 @@ menu:
     weight: 2
 ---
 
+## Resumen
+Esta asignatura presenta al estudiante una alternativa para apropiar la disciplina de la programación como herramienta conceptual y tecnológica que permite solucionar problemas reales en ingeniería. Usaremos el lenguaje de programación Python
+
+
 ## Actividades
+
+### Tortuga
+Editor online de la tortuga (https://trinket.io/turtle)
 
 ### Sistema, observación y estado
 
@@ -57,6 +60,7 @@ menu:
 * [Pruebas de la solución propuesta por Hipo] (https://www.youtube.com/watch?v=lMYbK9CfGZE&list=PLe-dMsxvIRSIsNvAWMBbLH4vkIo0haYC9&index=8)
 
 Describir constantes y variables en el entorno donde se encuentran hipo y chimuelo y su tipo de datos
+
 
 ---
 
