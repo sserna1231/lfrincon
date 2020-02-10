@@ -1,0 +1,2 @@
+Observe como las operaciones estan definidas en el archivo .h y que estas llamadas son implementadas en el archivo .c
+Haga los llamados en el main de las operaciones definidas en el .h

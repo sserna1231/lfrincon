@@ -1,0 +1,5 @@
+1. Compilar el primer archivo .c ( Ciclos. c) con el comando que lleva el programa hasta antes del enlazado ( extensión .o)  gcc -c Ciclos.c
+
+2. Compilar el segundo archivo .c ( Main.c) con el mismo comando  gcc  -c Main.comando
+3. Enlazar los dos archivos .o que resultaron de los pasos anteriores para generar un ejecutable con el siguiente comando
+gcc Ciclos.o Main.o -o NombreEjecutable

@@ -10,6 +10,6 @@ void calcularPromedioNotas(){
 
 int main() {
 	
-	//FIXME: Completar los puntos del ejecicio en clase de la sesion 4
+	//FIXME: Completar los puntos del ejecicio
 	return 0;
 }
