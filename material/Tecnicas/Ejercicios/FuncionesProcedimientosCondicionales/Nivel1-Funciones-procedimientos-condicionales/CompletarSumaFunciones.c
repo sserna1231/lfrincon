@@ -9,8 +9,9 @@ int multiplicar(int numUno, int numDos){
 	return resultado;
 }
 int restar(int numUno, int numDos){
-	//TODO: Completar aqui
-	return ;
+  int sus;
+  sus = numUno - numDos;
+	return sus;
 }
 int main(){
 	int numUno, numDos, resultado;
@@ -21,9 +22,9 @@ int main(){
 	suma=sumar(numUno,numDos);
 	printf("Suma es igual a  %d  \n",suma);
 	int retornoFuncionDos=multiplicar(suma, numUno);
-	printf("Multiplicación es igual a  %d  \n",retornoFuncionDos);
+	printf("MultiplicaciÃ³n es igual a  %d  \n",retornoFuncionDos);
 	int retornoFuncionTres=restar(numUno, numDos);
-	//TODO: Imprimir resultado resta aqui
+	printf("La resta es igual a %d\n", retornoFuncionTres);
 	return 0;
 }
 
